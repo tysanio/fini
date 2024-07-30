@@ -5,3 +5,6 @@ Soccer-football européen \
 Black-jack systeme \
 \
 Autre GM de d'autre personne a la demande de \
+\
+Aucun aide sera donnée pour les lancée \
+A vous de voir comment il fonctionne!\
